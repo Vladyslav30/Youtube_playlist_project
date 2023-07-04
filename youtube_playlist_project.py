@@ -19,7 +19,7 @@ from matplotlib.backends.backend_pdf import PdfPages
 import matplotlib.image as mpimg
 
 # Set the YouTube API key, service name, and version
-api_key = 'YOUR_API_KEY'  # Replace with your actual API key
+api_key = 'AIzaSyCDEEqn35XQVXRvAx9hSeLLThjTDBeB78A'  # Replace with your actual API key
 api_service_name = "youtube"
 api_version = "v3"
 
